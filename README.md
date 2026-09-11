@@ -1,2 +1,2 @@
-# AdaptaGen
-Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework
+# IAC
+Instance-Aware Conditioning for Specialized-Domain Generation
